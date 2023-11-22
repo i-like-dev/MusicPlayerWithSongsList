@@ -34,7 +34,8 @@ li{
     
 }
 li:hover{
-    background-color: antiquewhite;
+    background-color: black;
+    color:white;
     cursor: pointer;
 }
 
